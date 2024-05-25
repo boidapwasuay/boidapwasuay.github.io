@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boidapwasuay.github.io/sitemap.xml
